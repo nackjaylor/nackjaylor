@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @nackjaylor
-- 👀 I’m interested in AI, space, remote sensing, computer vision and robotics.
-- 🌱 I’m currently working on neural scene representations applied to robotics at the University of Sydney.
-- 📫 How to reach me: jack DOT naylor AT sydney DOT edu DOT au
+Hi there! I'm Jack.
 
-[Read more about me here](https://nackjaylor.github.io)
+I'm a final year PhD student with the Australian Centre for Robotics at the University of Sydney. At the moment I am a Fulbright Future Scholar at Carnegie Mellon University's Computational Imaging Lab.
+
+I'm interested in computational imaging, computer vision, robotic perception and scene representation. My work is focussed on building new sensors, algorithms and representations to help systems operate in complex environments, e.g. underwater and space, where they are faced with reflection, transparency and other visual phenomena.
+
+ How to reach me: jack DOT naylor AT sydney DOT edu DOT au
+
+[My website with publication list is here.](https://nackjaylor.github.io)
 
 <!---
 nackjaylor/nackjaylor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
